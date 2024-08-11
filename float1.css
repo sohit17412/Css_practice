@@ -1,0 +1,17 @@
+.container{
+    
+   /* height: 600px;*/
+    border:2px solid red;
+   /* overflow:auto;*/
+    /*margin: 50px auto;*/
+}
+.para1{
+    border:2px solid green;
+}
+.img1{
+
+    float:right;
+}
+.img2{
+    float:left;
+}
